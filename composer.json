@@ -1,0 +1,17 @@
+{
+	"name": "clairity",
+    "type": "framework",
+    "description": "PHP federated web framework",
+    "keywords": ["framework"],
+    "license": "DBAD",
+    "authors": [
+        {
+            "name": "Alfaniel Aldavan",
+            "email": "alfaniel.aldavan@ymail.com"
+        }
+    ],
+    "require": 
+    {
+        "php": ">=5.3"
+    }
+}
