@@ -1,6 +1,6 @@
 <?php
 
-namespace Clairity;
+namespace clairity;
 
 class NotImplementedException extends \Exception
 {
