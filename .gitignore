@@ -1,4 +1,6 @@
 .buildpath
 .project
 .settings/
-
+nbproject/
+.idea
+*.tmproj
